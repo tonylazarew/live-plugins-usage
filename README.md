@@ -26,7 +26,9 @@ optional arguments:
 
 ```
 
-It will write a CSV data out either to a file (if you provide `-o` flag) or to the stdout (terminal or pipe).
+It will write a CSV data out either to a file (if you provide `-o` flag) or to the stdout (terminal or pipe). Here's how it looks when imported into Numbers:
+
+![data example](doc/data-example.png)
 
 Use that data to know your habits! ;-)
 
